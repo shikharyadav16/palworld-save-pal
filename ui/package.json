@@ -4,7 +4,7 @@
 	"private": true,
 	"scripts": {
 		"dev:desktop": "node scripts/ensure-desktop-env.mjs && vite dev",
-"dev:web": "vite dev",
+		"dev:web": "vite dev",
 		"dev:vite": "vite dev",
 		"build": "vite build",
 		"build:desktop": "node scripts/ensure-desktop-env.mjs --force && vite build",
